@@ -1,4 +1,4 @@
-"# opencvdemo" 
+"# ocr-template-matching2"
 
 Add imagens to ./input folder
 
